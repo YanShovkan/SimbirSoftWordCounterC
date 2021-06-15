@@ -1,0 +1,13 @@
+C:\Users\shovk\source\repos\WordCounder\WordCounder\obj\Debug\netcoreapp3.1\WordCounder.csprojAssemblyReference.cache
+C:\Users\shovk\source\repos\WordCounder\WordCounder\obj\Debug\netcoreapp3.1\WordCounder.AssemblyInfoInputs.cache
+C:\Users\shovk\source\repos\WordCounder\WordCounder\obj\Debug\netcoreapp3.1\WordCounder.AssemblyInfo.cs
+C:\Users\shovk\source\repos\WordCounder\WordCounder\obj\Debug\netcoreapp3.1\WordCounder.csproj.CoreCompileInputs.cache
+C:\Users\shovk\source\repos\WordCounder\WordCounder\bin\Debug\netcoreapp3.1\WordCounder.exe
+C:\Users\shovk\source\repos\WordCounder\WordCounder\bin\Debug\netcoreapp3.1\WordCounder.deps.json
+C:\Users\shovk\source\repos\WordCounder\WordCounder\bin\Debug\netcoreapp3.1\WordCounder.runtimeconfig.json
+C:\Users\shovk\source\repos\WordCounder\WordCounder\bin\Debug\netcoreapp3.1\WordCounder.runtimeconfig.dev.json
+C:\Users\shovk\source\repos\WordCounder\WordCounder\bin\Debug\netcoreapp3.1\WordCounder.dll
+C:\Users\shovk\source\repos\WordCounder\WordCounder\bin\Debug\netcoreapp3.1\WordCounder.pdb
+C:\Users\shovk\source\repos\WordCounder\WordCounder\obj\Debug\netcoreapp3.1\WordCounder.dll
+C:\Users\shovk\source\repos\WordCounder\WordCounder\obj\Debug\netcoreapp3.1\WordCounder.pdb
+C:\Users\shovk\source\repos\WordCounder\WordCounder\obj\Debug\netcoreapp3.1\WordCounder.genruntimeconfig.cache
